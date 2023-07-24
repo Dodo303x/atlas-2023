@@ -1,0 +1,64 @@
+{
+	"id": -1,
+	"name": "Germany-Austria Countryballs",
+	"description": "A sign of love between the Austria Community and the \"Südflagge\" presented with Countryballs and a flag.",
+	"links": {
+		"discord": [
+			"placeaustria"
+		]
+	},
+	"path": {
+		"206": [
+			[
+				-1029,
+				-53
+			],
+			[
+				-1029,
+				-37
+			],
+			[
+				-1008,
+				-37
+			],
+			[
+				-1005,
+				-45
+			],
+			[
+				-1001,
+				-44
+			],
+			[
+				-997,
+				-37
+			],
+			[
+				-979,
+				-37
+			],
+			[
+				-981,
+				-54
+			],
+			[
+				-987,
+				-71
+			],
+			[
+				-1034,
+				-72
+			],
+			[
+				-1029,
+				-56
+			]
+		]
+	},
+	"center": {
+		"206": [
+			-1014,
+			-57
+		]
+	}
+}
